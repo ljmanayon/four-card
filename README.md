@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [ljmanayon/four-card](https://github.com/ljmanayon/four-card)
+- Live Site URL: [github.io/four-card](https://ljmanayon.github.io/four-card/)
 
 ### Built with
 
@@ -59,5 +59,5 @@ After Flexbox, I should learn about CSS Grid
 
 ## Author
 
-- Website - [Lucsan Manayon]()
+- Website - [Lucsan Manayon](https://github.com/ljmanayon)
 - Frontend Mentor - [ljmanayon](https://www.frontendmentor.io/profile/ljmanayon)
